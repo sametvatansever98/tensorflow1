@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>impact132.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\impact132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>impact</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>227</ymin>
+			<xmax>300</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

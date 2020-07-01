@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>scratch73.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\scratch73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>74</ymin>
+			<xmax>235</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

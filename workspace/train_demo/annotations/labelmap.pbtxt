@@ -1,0 +1,15 @@
+item {
+  id: 1
+  name: 'impact'
+}
+
+item {
+  id: 2
+  name: 'scratch'
+}
+
+item {
+  id: 3
+  name: 'stain'
+}
+

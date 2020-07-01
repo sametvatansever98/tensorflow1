@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>stain106.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\stain106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stain</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>282</ymin>
+			<xmax>276</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
